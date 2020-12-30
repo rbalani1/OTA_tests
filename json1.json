@@ -1,1 +1,4 @@
-"{\"lastVersion\":\"99.99.99\",\"url\":\"https://raw.githubusercontent.com/rbalani1/OTA_tests/master/swNN.bin\"}"
+{
+  "lastVersion": "99,99,99",
+  "swAddr": "https://raw.githubusercontent.com/rbalani1/OTA_tests/master/swNN.bin"
+}
