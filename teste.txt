@@ -1,2 +1,2 @@
 99.99.99
-"https://raw.githubusercontent.com/rbalani1/OTA_tests/master/sw2.bin"
+https://raw.githubusercontent.com/rbalani1/OTA_tests/master/sw2.bin
